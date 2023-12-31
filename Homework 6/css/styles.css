@@ -1,0 +1,277 @@
+.box {
+    height: 700px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+}
+
+.box1 {
+    height: 680px;
+    width: 680px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.box2 {
+    height: 200px;
+    width: 155px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 35px;
+    top: 35px;
+}
+
+.box3 {
+    height: 480px;
+    width: 480px;
+    background-color: rgb(179, 42, 42);
+    position: absolute;
+    left: 205px;
+    top: 35px;
+}
+
+.box4 {
+    height: 265px;
+    width: 155px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 35px;
+    top: 250px;
+}
+
+.box5 {
+    height: 155px;
+    width: 155px;
+    background-color: rgb(26, 29, 204);
+    position: absolute;
+    left: 35px;
+    top: 530px;
+}
+
+.box6 {
+    height: 155px;
+    width: 415px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 205px;
+    top: 530px;
+}
+
+.box7 {
+    height: 70px;
+    width: 50px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 635px;
+    top: 530px;
+}
+
+.box8 {
+    height: 70px;
+    width: 50px;
+    background-color: rgb(215, 183, 0);
+    position: absolute;
+    left: 635px;
+    top: 615px;
+}
+
+.tab {
+    height: 700px;
+    width: 700px;
+    background-color: white;
+    border-style: solid;
+    position: relative;
+    left: 800px;
+}
+
+.tab1 {
+    height: 680px;
+    width: 680px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.tab2 {
+    height: 320px;
+    width: 320px;
+    background-color: rgb(179, 42, 42);
+    position: absolute;
+    left: 120px;
+    top: 100px;
+}
+
+.tab3 {
+    height: 155px;
+    width: 155px;
+    background-color: rgb(45, 0, 87);
+    position: absolute;
+    left: 120px;
+    bottom: 110px;
+}
+
+.tab4 {
+    height: 60px;
+    width: 150px;
+    background-color: rgb(169, 169, 169);
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+.tab5 {
+    height: 60px;
+    width: 250px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 190px;
+    top: 25px;
+}
+
+.tab6 {
+    height: 60px;
+    width: 160px;
+    background-color: rgb(215, 183, 0);
+    position: absolute;
+    left: 455px;
+    top: 25px;
+}
+
+.tab7 {
+    height: 480px;
+    width: 45px;
+    background-color: rgb(173, 210, 196);
+    position: absolute;
+    left: 630px;
+    top: 25px;
+}
+
+.tab8 {
+    height: 150px;
+    width: 80px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 25px;
+    top: 100px;
+}
+
+.tab9 {
+    height: 240px;
+    width: 80px;
+    background-color: rgb(169, 169, 169);
+    position: absolute;
+    left: 25px;
+    top: 265px;
+}
+
+.tab10 {
+    height: 155px;
+    width: 80px;
+    background-color: rgb(215, 183, 0);
+    position: absolute;
+    left: 25px;
+    top: 520px;
+}
+
+.tab11 {
+    height: 155px;
+    width: 45px;
+    background-color: rgb(179, 42, 42);
+    position: absolute;
+    left: 630px;
+    top: 520px;
+}
+
+.tab12 {
+    height: 150px;
+    width: 160px;
+    background-color: rgb(215, 183, 0);
+    position: absolute;
+    left: 455px;
+    top: 100px;
+}
+
+.tab13 {
+    height: 155px;
+    width: 75px;
+    background-color: rgb(173, 210, 196);
+    position: absolute;
+    left: 455px;
+    top: 265px;
+}
+
+.tab14 {
+    height: 155px;
+    width: 70px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 545px;
+    top: 265px;
+}
+
+.tab15 {
+    height: 70px;
+    width: 160px;
+    background-color: rgb(169, 169, 169);
+    position: absolute;
+    left: 455px;
+    top: 435px;
+}
+
+.tab16 {
+    height: 115px;
+    width: 160px;
+    background-color: rgb(26, 29, 204);
+    position: absolute;
+    left: 455px;
+    top: 520px;
+}
+
+.tab17 {
+    height: 70px;
+    width: 150px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 290px;
+    top: 435px;
+}
+
+.tab18 {
+    height: 70px;
+    width: 150px;
+    background-color: rgb(173, 210, 196);
+    position: absolute;
+    left: 290px;
+    top: 520px;
+}
+
+.tab19 {
+    height: 30px;
+    width: 150px;
+    background-color: rgb(45, 0, 87);
+    position: absolute;
+    left: 290px;
+    top: 605px;
+}
+
+.tab20 {
+    height: 25px;
+    width: 325px;
+    background-color: rgb(169, 169, 169);
+    position: absolute;
+    left: 290px;
+    top: 650px;
+}
+
+.tab21 {
+    height: 70px;
+    width: 155px;
+    background-color: rgb(255, 240, 200);
+    position: absolute;
+    left: 120px;
+    top: 605px;
+}
+
