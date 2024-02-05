@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Recipe Generator</h1>
+    <p>Enter the name of your recipe and the number of ingredients you need.</p>
+    <form id="recipe-form">
+      <label for="recipe-name">Recipe name:</label>
+      <input type="text" id="recipe-name" name="recipe-name" required /><br />
+      <label for="ingredient-count">Number of ingredients:</label>
+      <input
+        type="number"
+        id="ingredient-count"
+        name="ingredient-count"
+        min="1"
+        required
+      /><br />
+      <button type="submit">Next</button>
+    </form>
+    <script src="external.js"></script>
+  </body>
+</html>
