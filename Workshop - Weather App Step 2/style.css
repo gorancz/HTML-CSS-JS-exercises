@@ -1,0 +1,37 @@
+#pages .page {
+    display: none;
+    text-align: center;
+}
+
+#pages .page:first-child {
+    display: block;
+}
+
+body {
+    background-image: url("img/background1.png");
+	background-repeat: repeat;
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+.tiny-text {
+    display: grid;
+    position: relative;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    bottom: -10vh;
+}
+
+.my-h2 {
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+}
+
+#statisticsResult {
+    justify-content: center;
+    margin-top: -80px;
+}
